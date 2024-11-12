@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+// This is class to control dialysate flow rate signal 
+
+>>>>>>> origin/huzaifaali
 public class DialysateFlowRateSignal {
     private int value;
 
